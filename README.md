@@ -4,4 +4,4 @@ Produire des levés topographiques SIG.
 
 1. Utilisation d'une table de codification 
 2. Réalisation du levé topo
-3. Scripts OGR permettant d'alimenter des tables PG permettant de créer un plan topo
+3. Scripts OGR permettant d'alimenter des tables PG permettant d'alimenter le plan topo
